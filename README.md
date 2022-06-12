@@ -1,2 +1,2 @@
-# Yaz-l-mM-hendisli-iG-ncelKonularProje
+#Yazilim_Mühendisligi_Güncel_Konular
 YazılımMühendisliğiGüncelKonularProje
